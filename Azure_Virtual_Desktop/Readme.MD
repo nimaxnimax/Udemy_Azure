@@ -340,6 +340,9 @@ Azure Resource Groups play a crucial role in organizing and managing Azure resou
   - Offers consistent governance and operational practices for resources deployed across multiple regions.
 
 
+********************
+
+
 ### Tags in Azure Resource Group Configuration
 
 - **Organizational Labeling**:
